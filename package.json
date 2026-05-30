@@ -1,0 +1,7 @@
+{
+  "name": "lau-ts-bridge",
+  "version": "0.1.0",
+  "description": "TypeScript bridge between PLATO backend and Lau game frontend",
+  "main": "src/index.ts",
+  "license": "MIT"
+}
